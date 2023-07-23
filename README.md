@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sayan-Dutta-1
-- 👀 I’m interested in Python Programming
-- 🌱 I’m currently learning web development & Cloud Computing
-- 💞️ I’m looking to collaborate on web-based projects
+- 👀 I’m interested in turning fascinations into reality.
+- 🌱 I’m currently learning Data Science & Cloud Computing.
+- 💞️ I’m looking to collaborate on challenging projects on cutting-edge technologies.
 - 📫 How to reach me sayanduttaofficial@gmail.com
 
 <!---
