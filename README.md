@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sayan-Dutta-1
+- 👋 Hi, I’m Sayan Dutta.
 - 👀 I’m interested in turning fascinations into reality.
 - 🌱 I’m currently learning Data Science & Cloud Computing.
 - 💞️ I’m looking to collaborate on challenging projects on cutting-edge technologies.
