@@ -18,7 +18,7 @@
 
 - 📫 How to reach me - **sayanduttaofficial@gmail.com**
 
-- 📄 Know about my experiences - [https://drive.google.com/file/d/1fg0Iv9_fHgkAo2peZyh5eTfcoEw9sZ_d/view?usp=sharing](https://drive.google.com/file/d/1fg0Iv9_fHgkAo2peZyh5eTfcoEw9sZ_d/view?usp=sharing)
+- 📄 Know about my experiences - [https://drive.google.com/file/d/1Gq9rWdP3Oz36lki_tGVe2rBI9WNhWiKx/view?usp=sharing)
 
 - ⚡ Fun fact - **Humanity presently stands at Type 0.7276 on the Kardashev Scale.**
 
